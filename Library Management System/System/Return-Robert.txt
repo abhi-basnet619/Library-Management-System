@@ -1,0 +1,7 @@
+                Library Management System 
+                   Returned by: Robert
+    Date: 2021-10-30    Time:06:47:56.907680
+
+S.N.		BookName		Cost
+1		Harry Potter		$2
+					Total: $2.0
